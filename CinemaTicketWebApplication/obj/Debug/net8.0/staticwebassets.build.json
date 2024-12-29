@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "iT+BfZmvsybj4KioRxsS+qkYgoqgEF3T+nFbawjJSKg=",
+  "Source": "CinemaTicketWebApplication",
+  "BasePath": "_content/CinemaTicketWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
